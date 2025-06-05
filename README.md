@@ -1,40 +1,38 @@
-<!-- Glowing, green-styled GitHub profile intro section -->
-<div align="center" style="background-color:#0D1117; padding: 30px; border-radius: 12px;">
+<!-- Typing SVG with glow -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=🎓+Final-year+Bachelor+of+Information+Technology+student+at+Belgium+Campus+ITversity;🏅+Ranked+top+9+in+my+class+%7C+18+distinctions+out+of+28+modules+%7C+0+failed+modules;👥+Leading+a+team+of+11+developers+%28including+4+industry+pros%29+on+AI+%26+IoT+projects;🌐+Based+in+Edenvale%2C+South+Africa" alt="Typing SVG" style="filter: drop-shadow(0px 0px 6px #00FF00);" />
+</p>
 
-  <!-- Typing SVG with emojis and glow effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=🎓+Final-year+Bachelor+of+Information+Technology+student+at+Belgium+Campus+ITversity;🏅+Ranked+top+9+in+my+class+%7C+18+distinctions+out+of+28+modules+%7C+0+failed+modules;👥+Leading+a+team+of+11+developers+%28including+4+industry+pros%29+on+AI+%26+IoT+projects;🌐+Based+in+Edenvale%2C+South+Africa"
-       alt="Typing SVG"
-       style="filter: drop-shadow(0px 0px 6px #00FF00);" />
-
-  <!-- Snorlax-green LinkedIn button with glow -->
-  <p>
-    <a href="https://www.linkedin.com/in/suhil-jugroop-443a7b26a/?trk=opento_sprofile_details" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-6BBE92?style=for-the-badge&logo=linkedin&logoColor=white"
-           alt="LinkedIn Badge"
-           style="filter: drop-shadow(0px 0px 6px #6BBE92);" />
-    </a>
-  </p>
-</div>
+<!-- LinkedIn Button -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/suhil-jugroop-443a7b26a/?trk=opento_sprofile_details" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-6BBE92?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="filter: drop-shadow(0px 0px 6px #6BBE92);" />
+  </a>
+</p>
 
 ---
 
 # 👋 Hi, I'm Suhil Jugroop
 
 <p align="center">
-  <img src="https://github.com/Timeshot0311/Timeshot0311/raw/main/resources/snorlax-burger.jpeg" alt="Snorlax loves burgers!" width="300"/>
+  <img src="https://github.com/Timeshot0311/Timeshot0311/raw/main/Resources/snorlax-burger.jpeg" alt="Snorlax loves burgers!" width="300" />
 </p>
 
 ---
 
-## 💼 About Me
+<details>
+<summary>💼 About Me</summary>
 
 I'm a passionate technologist who thrives at the intersection of innovation and execution. With a strong foundation in software development, cloud computing, networking, and IoT, I’ve led the full cycle of real-world projects — from AI-based plant detection systems to full-stack community platforms.
 
 I’m known for my adaptability, leadership, and my ability to communicate across all levels — from collaborating with teammates to coordinating with deans and lecturers. I love solving hard problems and building scalable, elegant solutions.
 
+</details>
+
 ---
 
-## 🛠️ Tech Stack
+<details>
+<summary>🛠️ Tech Stack</summary>
 
 ### 💻 Languages
 - JavaScript (React, Node.js)
@@ -74,9 +72,12 @@ I’m known for my adaptability, leadership, and my ability to communicate acros
 - Arduino & IoT Prototyping
 - AI & ML (image classification, APIs)
 
+</details>
+
 ---
 
-## 🖼️ Tech Stack (Badges)
+<details>
+<summary>🖼️ Tech Stack (Badges)</summary>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -100,30 +101,36 @@ I’m known for my adaptability, leadership, and my ability to communicate acros
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 
+</details>
+
 ---
 
-## 📊 GitHub Stats
+<details>
+<summary>📊 GitHub Stats</summary>
 
-![Suhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timeshot0311&show_icons=true&theme=tokyonight&count_private=true)
+![Suhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timeshot0311&show_icons=true&theme=tokyonight&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timeshot0311&layout=compact&theme=tokyonight)
-
----
 
 <p align="center">
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/Timeshot0311/count.svg" />
 </p>
 
+</details>
+
 ---
 
-## 🤝 Let's Connect
+<details>
+<summary>🤝 Let's Connect</summary>
 
 - 📧 Email: suhil0311@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/suhil-jugroop-443a7b26a](https://www.linkedin.com/in/suhil-jugroop-443a7b26a/?trk=opento_sprofile_details)  
 - 🧠 Motto: “Build smart. Lead well. Stay curious.”
 
 > ⚡ *Open to internships, collaborations, and side projects in AI, full-stack development, and cloud architecture.*
+
+</details>
