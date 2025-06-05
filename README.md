@@ -1,12 +1,16 @@
-<!-- Typing SVG with glow -->
+<!-- Typing SVG with fallback host and working emojis -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=🎓+Final-year+Bachelor+of+Information+Technology+student+at+Belgium+Campus+ITversity;🏅+Ranked+top+9+in+my+class+%7C+18+distinctions+out+of+28+modules+%7C+0+failed+modules;👥+Leading+a+team+of+11+developers+%28including+4+industry+pros%29+on+AI+%26+IoT+projects;🌐+Based+in+Edenvale%2C+South+Africa" alt="Typing SVG" style="filter: drop-shadow(0px 0px 6px #00FF00);" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=🎓+Final-year+Bachelor+of+Information+Technology+student+at+Belgium+Campus+ITversity;🏅+Ranked+top+9+in+my+class+%7C+18+distinctions+out+of+28+modules+%7C+0+failed+modules;👥+Leading+a+team+of+11+developers+%28including+4+industry+pros%29+on+AI+%26+IoT+projects;🌐+Based+in+Edenvale%2C+South+Africa"
+       alt="Typing SVG"
+       style="filter: drop-shadow(0 0 6px #00FF00);" />
 </p>
 
 <!-- LinkedIn Button -->
 <p align="center">
   <a href="https://www.linkedin.com/in/suhil-jugroop-443a7b26a/?trk=opento_sprofile_details" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-6BBE92?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="filter: drop-shadow(0px 0px 6px #6BBE92);" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-6BBE92?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="LinkedIn Badge"
+         style="filter: drop-shadow(0 0 6px #6BBE92);" />
   </a>
 </p>
 
