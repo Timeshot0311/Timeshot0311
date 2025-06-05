@@ -1,5 +1,5 @@
-<details>
-<summary>📌 Quick Facts</summary>
+<!-- Typing SVG + Quick Facts -->
+## 📌 Quick Facts
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=850&lines=🎓+BIT+Student+%40+Belgium+Campus;🏅+Top+9%2C+18+Distinctions%2C+0+Fails;👥+Led+11-dev+Team+on+AI+%26+IoT+Project"
@@ -15,8 +15,6 @@
   </a>
 </p>
 
-</details>
-
 ---
 
 # 👋 Hi, I'm Suhil Jugroop
@@ -27,7 +25,7 @@
 
 ---
 
-<details>
+<details open>
 <summary>💼 About Me</summary>
 
 I'm a passionate technologist who thrives at the intersection of innovation and execution. With a strong foundation in software development, cloud computing, networking, and IoT, I’ve led the full cycle of real-world projects — from AI-based plant detection systems to full-stack community platforms.
@@ -38,7 +36,7 @@ I’m known for my adaptability, leadership, and my ability to communicate acros
 
 ---
 
-<details>
+<details open>
 <summary>🛠️ Tech Stack</summary>
 
 ### 💻 Languages
@@ -83,7 +81,7 @@ I’m known for my adaptability, leadership, and my ability to communicate acros
 
 ---
 
-<details>
+<details open>
 <summary>🖼️ Tech Stack (Badges)</summary>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -116,7 +114,7 @@ I’m known for my adaptability, leadership, and my ability to communicate acros
 
 ---
 
-<details>
+<details open>
 <summary>📊 GitHub Stats</summary>
 
 ![Suhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timeshot0311&show_icons=true&theme=tokyonight&count_private=true)  
@@ -131,7 +129,7 @@ I’m known for my adaptability, leadership, and my ability to communicate acros
 
 ---
 
-<details>
+<details open>
 <summary>🤝 Let's Connect</summary>
 
 - 📧 Email: suhil0311@gmail.com  
