@@ -1,16 +1,129 @@
-## Hi there 👋
+<!-- Glowing, green-styled GitHub profile intro section -->
+<div align="center" style="background-color:#0D1117; padding: 30px; border-radius: 12px;">
 
-<!--
-**Timeshot0311/Timeshot0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Typing SVG with emojis and glow effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=🎓+Final-year+Bachelor+of+Information+Technology+student+at+Belgium+Campus+ITversity;🏅+Ranked+top+9+in+my+class+%7C+18+distinctions+out+of+28+modules+%7C+0+failed+modules;👥+Leading+a+team+of+11+developers+%28including+4+industry+pros%29+on+AI+%26+IoT+projects;🌐+Based+in+Edenvale%2C+South+Africa"
+       alt="Typing SVG"
+       style="filter: drop-shadow(0px 0px 6px #00FF00);" />
 
-Here are some ideas to get you started:
+  <!-- Snorlax-green LinkedIn button with glow -->
+  <p>
+    <a href="https://www.linkedin.com/in/suhil-jugroop-443a7b26a/?trk=opento_sprofile_details" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-6BBE92?style=for-the-badge&logo=linkedin&logoColor=white"
+           alt="LinkedIn Badge"
+           style="filter: drop-shadow(0px 0px 6px #6BBE92);" />
+    </a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👋 Hi, I'm Suhil Jugroop
+
+<p align="center">
+  <img src="https://github.com/Timeshot0311/Timeshot0311/raw/main/resources/snorlax-burger.jpeg" alt="Snorlax loves burgers!" width="300"/>
+</p>
+
+---
+
+## 💼 About Me
+
+I'm a passionate technologist who thrives at the intersection of innovation and execution. With a strong foundation in software development, cloud computing, networking, and IoT, I’ve led the full cycle of real-world projects — from AI-based plant detection systems to full-stack community platforms.
+
+I’m known for my adaptability, leadership, and my ability to communicate across all levels — from collaborating with teammates to coordinating with deans and lecturers. I love solving hard problems and building scalable, elegant solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- JavaScript (React, Node.js)
+- Python (AI, scripting, data analysis)
+- C# (Windows Forms, .NET)
+- SQL (MySQL, MongoDB queries)
+- HTML5 / CSS3
+
+### 🧩 Frameworks & Libraries
+- React.js
+- Express.js
+- Three.js
+- Framer Motion / GSAP
+- Bootstrap / Tailwind CSS
+
+### 🗃️ Databases
+- MongoDB Atlas
+- Firebase Firestore
+- MySQL
+
+### ⚙️ Tools & Platforms
+- Docker
+- Postman
+- Figma (UI/UX)
+- Git / GitHub
+- Power BI
+- VS Code / Visual Studio
+- Microsoft Azure
+
+### 🚀 DevOps & Workflow
+- GitHub Actions
+- Agile / Scrum
+- Version Control (branching, PRs)
+
+### 📦 Other
+- Blender (3D modeling)
+- Arduino & IoT Prototyping
+- AI & ML (image classification, APIs)
+
+---
+
+## 🖼️ Tech Stack (Badges)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Suhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timeshot0311&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timeshot0311&layout=compact&theme=tokyonight)
+
+---
+
+<p align="center">
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/Timeshot0311/count.svg" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 Email: suhil0311@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/suhil-jugroop-443a7b26a](https://www.linkedin.com/in/suhil-jugroop-443a7b26a/?trk=opento_sprofile_details)  
+- 🧠 Motto: “Build smart. Lead well. Stay curious.”
+
+> ⚡ *Open to internships, collaborations, and side projects in AI, full-stack development, and cloud architecture.*
