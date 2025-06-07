@@ -118,7 +118,9 @@ I’m known for my adaptability, leadership, and my ability to communicate acros
 <summary>📊 GitHub Stats</summary>
 
 ![Suhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timeshot0311&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timeshot0311&layout=compact&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timeshot0311&layout=compact&theme=tokyonight&count_private=true&cache_seconds=60)
+
+
 
 
 <p align="center">
