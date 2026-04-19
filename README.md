@@ -2,7 +2,7 @@
 ## 📌 Quick Facts
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=850&lines=🎓+BIT+Student+%40+Belgium+Campus;🏅+Top+9%2C+18+Distinctions%2C+0+Fails;👥+Led+11-dev+Team+on+AI+%26+IoT+Project"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=850&lines=🎓+BIT+Graduate+%40+Belgium+Campus+%7C+Cum+Laude;🏅+28+Distinctions%2C+Top+9%25%2C+0+Fails;🥇+1st+Place+Winner+%40+AI+Festival;👥+Led+11-dev+Team+on+AI+%26+IoT+Project"
        alt="Typing SVG"
        style="filter: drop-shadow(0 0 6px #00FF00);" />
 </p>
@@ -28,9 +28,11 @@
 <details open>
 <summary>💼 About Me</summary>
 
-I'm a passionate technologist who thrives at the intersection of innovation and execution. With a strong foundation in software development, cloud computing, networking, and IoT, I’ve led the full cycle of real-world projects — from AI-based plant detection systems to full-stack community platforms.
+I’m a passionate technologist who thrives at the intersection of innovation and execution. With a strong foundation in software development, cloud computing, networking, and IoT, I’ve led the full cycle of real-world projects — from AI-based plant detection systems to full-stack community platforms.
 
 I’m known for my adaptability, leadership, and my ability to communicate across all levels — from collaborating with teammates to coordinating with deans and lecturers. I love solving hard problems and building scalable, elegant solutions.
+
+I recently graduated **Cum Laude** from Belgium Campus iTversity with a BIT degree, finishing in the top 9% of my cohort with 28 distinctions and 0 fails.
 
 </details>
 
@@ -115,6 +117,54 @@ I’m known for my adaptability, leadership, and my ability to communicate acros
 ---
 
 <details open>
+<summary>🏆 Achievements</summary>
+
+| Award | Details |
+|-------|---------|
+| 🥇 1st Place — AI Festival | Won first place at an AI festival competing against peers with a real-world AI project |
+| 🎓 Cum Laude Graduate | Graduated with distinction from Belgium Campus iTversity (BIT) |
+| 🏅 28 Distinctions | Achieved 28 distinctions across my degree with 0 fails |
+| 📊 Top 9% | Ranked in the top 9% of my cohort throughout my studies |
+
+</details>
+
+---
+
+<details open>
+<summary>🚀 Featured Projects</summary>
+
+### ⚖️ LexDesk
+Production PWA for legal case management — offline-first with real-time Firestore sync, PDF generation, and a Shadcn UI built on Next.js 15.
+- **Stack:** Next.js 15, Firebase Firestore, Shadcn UI, PDF generation
+- **Highlights:** PWA with offline support, real-time sync, production-ready
+
+---
+
+### 🧠 ScholarAI
+AI-powered study companion that generates quizzes, summaries, and flashcards from uploaded course material.
+- **Stack:** Python, AI/ML, React.js, Node.js
+- **Highlights:** Document ingestion pipeline, AI content generation, multi-format output
+
+---
+
+### 🎓 CampusLearn
+Full-stack learning management system with course creation, student enrolment, and progress tracking built for campus use.
+- **Stack:** React.js, Node.js, Express.js, MongoDB Atlas
+- **Highlights:** Role-based access, course lifecycle management, progress dashboards
+
+---
+
+### 🌐 3D Portfolio
+Interactive personal portfolio built with Three.js and Blender — featuring 3D scenes, smooth animations, and a custom design system.
+- **Stack:** Three.js, Blender, GSAP / Framer Motion, React.js
+- **Highlights:** Real-time 3D rendering, custom models, cinematic transitions
+- **Live:** suhiljugroop.com
+
+</details>
+
+---
+
+<details open>
 <summary>📊 GitHub Stats</summary>
 
 ![Suhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timeshot0311&show_icons=true&theme=tokyonight&count_private=true)  
@@ -135,6 +185,7 @@ I’m known for my adaptability, leadership, and my ability to communicate acros
 <details open>
 <summary>🤝 Let's Connect</summary>
 
+- 🌐 Portfolio: [suhiljugroop.com](https://suhiljugroop.com)
 - 📧 Email: suhil0311@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/suhil-jugroop-443a7b26a](https://www.linkedin.com/in/suhil-jugroop-443a7b26a/?trk=opento_sprofile_details)  
 - 🧠 Motto: “Build smart. Lead well. Stay curious.”
