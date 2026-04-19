@@ -2,16 +2,16 @@
 ## 📌 Quick Facts
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=850&lines=🎓+BIT+Graduate+%40+Belgium+Campus+%7C+Cum+Laude;🏅+28+Distinctions%2C+Top+9%25%2C+0+Fails;🥇+1st+Place+Winner+%40+AI+Festival;👥+Led+11-dev+Team+on+AI+%26+IoT+Project"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=🎓+BIT+Graduate+%40+Belgium+Campus+%7C+Cum+Laude;🏅+28+Distinctions%2C+Top+9%25%2C+0+Fails;🥇+1st+Place+Winner+%40+AI+Festival;👥+Led+11-dev+Team+on+AI+%26+IoT+Project"
        alt="Typing SVG"
-       style="filter: drop-shadow(0 0 6px #00FF00);" />
+       style="filter: drop-shadow(0 0 6px #7C3AED);" />
 </p>
 
 <p align="center">
   <a href="https://suhiljugroop.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-suhiljugroop.com-00FF00?style=for-the-badge&logo=googlechrome&logoColor=black"
+    <img src="https://img.shields.io/badge/Portfolio-suhiljugroop.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
          alt="Portfolio Badge"
-         style="filter: drop-shadow(0 0 6px #00FF00);" />
+         style="filter: drop-shadow(0 0 6px #7C3AED);" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/suhil-jugroop-443a7b26a/?trk=opento_sprofile_details" target="_blank">
@@ -173,14 +173,18 @@ Interactive personal portfolio built with Three.js and Blender — featuring 3D 
 <details open>
 <summary>📊 GitHub Stats</summary>
 
-![Suhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timeshot0311&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timeshot0311&layout=compact&theme=tokyonight&count_private=true&cache_seconds=60)
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Timeshot0311&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timeshot0311&layout=compact&theme=tokyonight&count_private=true&cache_seconds=60" alt="Top Languages" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Timeshot0311&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timeshot0311&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Timeshot0311&theme=tokyonight&row=1&no-bg=true&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 </details>
