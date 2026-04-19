@@ -1,0 +1,93 @@
+<svg width="320" height="320" viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      /* Monitor glow - left screen */
+      .glow-left  { animation: glow-left  4s ease-in-out infinite; }
+      /* Monitor glow - right screen */
+      .glow-right { animation: glow-right 4s ease-in-out infinite 1.2s; }
+      /* Background neon ambient pulse */
+      .ambient    { animation: ambient    5s ease-in-out infinite 0.5s; }
+      /* Typing cursor blink */
+      .cursor     { animation: blink      0.75s step-end infinite; }
+      /* Typing dots on keyboard */
+      .type1      { animation: type       1.4s ease-in-out infinite 0s; }
+      .type2      { animation: type       1.4s ease-in-out infinite 0.2s; }
+      .type3      { animation: type       1.4s ease-in-out infinite 0.4s; }
+      .type4      { animation: type       1.4s ease-in-out infinite 0.6s; }
+      /* Scanline sweep */
+      .scanline   { animation: scan       6s linear infinite; }
+
+      @keyframes glow-left {
+        0%, 100% { opacity: 0.18; }
+        50%      { opacity: 0.38; }
+      }
+      @keyframes glow-right {
+        0%, 100% { opacity: 0.12; }
+        50%      { opacity: 0.30; }
+      }
+      @keyframes ambient {
+        0%, 100% { opacity: 0.10; }
+        50%      { opacity: 0.22; }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50%      { opacity: 0; }
+      }
+      @keyframes type {
+        0%, 100% { opacity: 0.2; transform: scaleY(0.6); }
+        50%      { opacity: 1;   transform: scaleY(1); }
+      }
+      @keyframes scan {
+        0%   { transform: translateY(-8px); opacity: 0.07; }
+        100% { transform: translateY(328px); opacity: 0.07; }
+      }
+    </style>
+
+    <filter id="blur-glow">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMerge/></feMerge>
+    </filter>
+    <filter id="soft-glow">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+    <clipPath id="frame">
+      <rect width="320" height="320" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+
+    <!-- Base image -->
+    <image href="https://github.com/Timeshot0311/Timeshot0311/raw/main/Resources/coding.png"
+           x="0" y="0" width="320" height="320" preserveAspectRatio="xMidYMid slice"/>
+
+    <!-- Ambient purple background pulse -->
+    <rect class="ambient" x="0" y="0" width="320" height="320"
+          fill="#7C3AED" filter="url(#blur-glow)"/>
+
+    <!-- Left monitor glow (white/blue screen) -->
+    <rect class="glow-left" x="18" y="38" width="118" height="148"
+          fill="#B0C8FF" filter="url(#blur-glow)" rx="4"/>
+
+    <!-- Right monitor glow (purple/pink screen) -->
+    <rect class="glow-right" x="194" y="38" width="110" height="148"
+          fill="#C084FC" filter="url(#blur-glow)" rx="4"/>
+
+    <!-- Keyboard typing indicators (small bright flashes across keyboard area) -->
+    <rect class="type1" x="96"  y="270" width="20" height="5" rx="2" fill="#A78BFA" opacity="0.8"/>
+    <rect class="type2" x="128" y="270" width="28" height="5" rx="2" fill="#A78BFA" opacity="0.8"/>
+    <rect class="type3" x="166" y="270" width="22" height="5" rx="2" fill="#A78BFA" opacity="0.8"/>
+    <rect class="type4" x="198" y="270" width="18" height="5" rx="2" fill="#A78BFA" opacity="0.8"/>
+
+    <!-- Blinking cursor on left monitor -->
+    <rect class="cursor" x="88" y="102" width="3" height="14" rx="1" fill="#FFFFFF"/>
+
+    <!-- Scanline sweep -->
+    <rect class="scanline" x="0" y="0" width="320" height="6" fill="#FFFFFF"/>
+
+    <!-- Subtle vignette border -->
+    <rect width="320" height="320" rx="12" fill="none"
+          stroke="#7C3AED" stroke-width="2" opacity="0.5"/>
+
+  </g>
+</svg>

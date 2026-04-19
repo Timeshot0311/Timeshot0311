@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Timeshot0311/Timeshot0311/raw/main/Resources/snorlax-burger.jpeg" alt="Snorlax loves burgers!" width="300" />
+  <img src="https://github.com/Timeshot0311/Timeshot0311/raw/main/Resources/coding-animated.svg" alt="Suhil coding" width="320" />
 </p>
 
 ---

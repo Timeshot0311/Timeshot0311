@@ -1,0 +1,127 @@
+<svg width="280" height="290" viewBox="0 0 280 290" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .body {
+        animation: snore 3.5s ease-in-out infinite;
+        transform-box: fill-box;
+        transform-origin: center;
+      }
+      .belly {
+        animation: belly-rise 3.5s ease-in-out infinite;
+        transform-box: fill-box;
+        transform-origin: center bottom;
+      }
+      .zzz1 { animation: zzz 3s ease-out infinite 0s; }
+      .zzz2 { animation: zzz 3s ease-out infinite 1s; }
+      .zzz3 { animation: zzz 3s ease-out infinite 2s; }
+      @keyframes snore {
+        0%, 100% { transform: translateY(0px); }
+        50%       { transform: translateY(-5px); }
+      }
+      @keyframes belly-rise {
+        0%, 100% { transform: scaleY(1); }
+        50%       { transform: scaleY(1.04); }
+      }
+      @keyframes zzz {
+        0%   { transform: translate(0px,   0px); opacity: 1;   font-size: 18px; }
+        100% { transform: translate(28px, -64px); opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="280" height="290" fill="#0d1117"/>
+
+  <g class="body">
+
+    <!-- ── Ears ── -->
+    <!-- Left ear outline -->
+    <rect x="60"  y="58" width="34" height="34" fill="#1E2D6B"/>
+    <!-- Left ear body -->
+    <rect x="64"  y="62" width="26" height="26" fill="#4B6CB7"/>
+    <!-- Left ear pink -->
+    <rect x="68"  y="66" width="18" height="18" fill="#E88FAA"/>
+
+    <!-- Right ear outline -->
+    <rect x="186" y="58" width="34" height="34" fill="#1E2D6B"/>
+    <!-- Right ear body -->
+    <rect x="190" y="62" width="26" height="26" fill="#4B6CB7"/>
+    <!-- Right ear pink -->
+    <rect x="194" y="66" width="18" height="18" fill="#E88FAA"/>
+
+    <!-- ── Main body outline ── -->
+    <rect x="46"  y="80" width="188" height="158" fill="#1E2D6B"/>
+
+    <!-- ── Main body fill ── -->
+    <rect x="52"  y="86" width="176" height="148" fill="#4B6CB7"/>
+
+    <!-- ── Head highlight (top of body, slightly lighter) ── -->
+    <rect x="56"  y="86" width="168" height="48"  fill="#5B7FD4"/>
+
+    <!-- ── Closed eyes ── -->
+    <rect x="86"  y="112" width="32" height="10" fill="#1A1A30"/>
+    <rect x="162" y="112" width="32" height="10" fill="#1A1A30"/>
+
+    <!-- ── Nose ── -->
+    <rect x="128" y="130" width="24" height="14" fill="#3A4898"/>
+
+    <!-- ── Belly outline ── -->
+    <rect x="72"  y="124" width="136" height="110" fill="#C8A840"/>
+
+    <!-- ── Belly fill ── -->
+    <g class="belly">
+      <rect x="76"  y="128" width="128" height="102" fill="#F5E6A3"/>
+    </g>
+
+    <!-- ── Left arm outline ── -->
+    <rect x="42"  y="148" width="38" height="64"  fill="#1E2D6B"/>
+    <!-- Left arm fill -->
+    <rect x="46"  y="152" width="30" height="56"  fill="#4B6CB7"/>
+
+    <!-- Left claws -->
+    <rect x="44"  y="208" width="10" height="18"  fill="#F0F0F0"/>
+    <rect x="56"  y="208" width="10" height="18"  fill="#F0F0F0"/>
+    <rect x="68"  y="208" width="10" height="18"  fill="#F0F0F0"/>
+
+    <!-- ── Right arm outline ── -->
+    <rect x="200" y="148" width="38" height="64"  fill="#1E2D6B"/>
+    <!-- Right arm fill -->
+    <rect x="204" y="152" width="30" height="56"  fill="#4B6CB7"/>
+
+    <!-- Right claws -->
+    <rect x="198" y="208" width="10" height="18"  fill="#F0F0F0"/>
+    <rect x="210" y="208" width="10" height="18"  fill="#F0F0F0"/>
+    <rect x="222" y="208" width="10" height="18"  fill="#F0F0F0"/>
+
+    <!-- ── Left foot outline ── -->
+    <rect x="62"  y="232" width="60" height="36"  fill="#1E2D6B"/>
+    <!-- Left foot fill -->
+    <rect x="66"  y="236" width="52" height="28"  fill="#4B6CB7"/>
+    <!-- Left foot claws -->
+    <rect x="64"  y="262" width="12" height="10"  fill="#F0F0F0"/>
+    <rect x="78"  y="262" width="12" height="10"  fill="#F0F0F0"/>
+    <rect x="92"  y="262" width="12" height="10"  fill="#F0F0F0"/>
+
+    <!-- ── Right foot outline ── -->
+    <rect x="158" y="232" width="60" height="36"  fill="#1E2D6B"/>
+    <!-- Right foot fill -->
+    <rect x="162" y="236" width="52" height="28"  fill="#4B6CB7"/>
+    <!-- Right foot claws -->
+    <rect x="160" y="262" width="12" height="10"  fill="#F0F0F0"/>
+    <rect x="174" y="262" width="12" height="10"  fill="#F0F0F0"/>
+    <rect x="188" y="262" width="12" height="10"  fill="#F0F0F0"/>
+
+  </g>
+
+  <!-- ── ZZZs (outside body group so they drift freely) ── -->
+  <text class="zzz1" x="214" y="96"
+        font-family="'Courier New', monospace" font-size="18" font-weight="900"
+        fill="#A78BFA">Z</text>
+  <text class="zzz2" x="228" y="74"
+        font-family="'Courier New', monospace" font-size="14" font-weight="900"
+        fill="#7C3AED">Z</text>
+  <text class="zzz3" x="240" y="56"
+        font-family="'Courier New', monospace" font-size="10" font-weight="900"
+        fill="#5B4AB7">Z</text>
+
+</svg>
