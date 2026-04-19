@@ -23,7 +23,9 @@
 
 ---
 
-# 👋 Hi, I'm Suhil Jugroop
+<p align="center">
+  <img src="https://github.com/Timeshot0311/Timeshot0311/raw/main/Resources/banner.svg" alt="Suhil Jugroop" width="850" />
+</p>
 
 <p align="center">
   <img src="https://github.com/Timeshot0311/Timeshot0311/raw/main/Resources/snorlax-burger.jpeg" alt="Snorlax loves burgers!" width="300" />
@@ -185,6 +187,14 @@ Interactive personal portfolio built with Three.js and Blender — featuring 3D 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Timeshot0311&theme=tokyonight&row=1&no-bg=true&margin-w=8" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Timeshot0311/Timeshot0311/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Timeshot0311/Timeshot0311/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Timeshot0311/Timeshot0311/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 </details>
