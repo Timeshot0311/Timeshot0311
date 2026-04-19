@@ -8,6 +8,12 @@
 </p>
 
 <p align="center">
+  <a href="https://suhiljugroop.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-suhiljugroop.com-00FF00?style=for-the-badge&logo=googlechrome&logoColor=black"
+         alt="Portfolio Badge"
+         style="filter: drop-shadow(0 0 6px #00FF00);" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/suhil-jugroop-443a7b26a/?trk=opento_sprofile_details" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6BBE92?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn Badge"
@@ -174,8 +180,7 @@ Interactive personal portfolio built with Three.js and Blender — featuring 3D 
 
 
 <p align="center">
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/Timeshot0311/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Timeshot0311&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 </details>
